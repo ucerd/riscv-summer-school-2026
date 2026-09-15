@@ -1,22 +1,22 @@
 # RISC-V Hardware–Software Co-Design Summer School 2026
 
-Lecture slides and hands-on material from the **Summer School on RISC-V Hardware–Software Co-Design**, organized by the Centre for AI & Big Data (CAID), Namal University, Mianwali.
+Lecture slides and hands-on material from the **Summer School on RISC-V Hardware–Software Co-Design**, organized by the **Centre for AI & Big Data (CAID), Namal University, Mianwali**.
 
-**Dates:** 5–6 September 2026  
+**Dates:** 5–6 September 2026
 **Venue:** Namal University, Mianwali, Pakistan
 
 ## Topics
 
-- RISC-V ISA and computer architecture
-- RISC-V Vector Extension (RVV)
-- Hardware–software co-design
-- Accelerator and SoC integration
-- GCC/LLVM RISC-V toolchains
-- Firmware and vector programming
-- Functional verification
-- Linux bring-up on RISC-V
-- MLIR / IREE compilation
-- AI and GenAI inference on RISC-V
+* RISC-V Instruction Set Architecture (ISA) and Computer Architecture
+* RISC-V Vector Extension (RVV)
+* Hardware–Software Co-Design
+* Accelerator and SoC Integration
+* GCC/LLVM RISC-V Toolchains
+* Firmware and Vector Programming
+* Functional Verification
+* Linux Bring-up on RISC-V
+* MLIR / IREE Compilation
+* AI and Generative AI Inference on RISC-V
 
 ## Repository Structure
 
@@ -36,9 +36,28 @@ Lecture slides and hands-on material from the **Summer School on RISC-V Hardware
     ├── Session_7_Dr_Bilal_AI & the Future of Semiconductor Work .pdf
     ├── Session_8_Xavier_RISC-V-Summer-School-2026-Namal-Univ.pdf
     └── Session_9_Taimoor_Adeel_Namal Summer School-10xE.pdf
-Organizer
+```
 
-Centre for AI & Big Data (CAID)
-Namal University, Mianwali, Pakistan
+## About the Summer School
 
-https://caid.namal.edu.pk
+The summer school introduced participants to the complete RISC-V hardware–software ecosystem, ranging from processor architecture and vector computing to SoC integration, compiler toolchains, Linux bring-up, MLIR/IREE, and AI workloads.
+
+The program combined lectures with practical demonstrations and hands-on activities to provide participants with exposure to modern open-source processor development and AI computing on RISC-V platforms.
+
+## Organizer
+
+**Centre for AI & Big Data (CAID)**
+**Namal University, Mianwali, Pakistan**
+
+Website: https://caid.namal.edu.pk
+
+## Usage
+
+The material in this repository is intended for educational, academic, and research purposes.
+
+Users are encouraged to properly acknowledge the original authors and speakers when using or referencing individual lecture materials.
+
+## Acknowledgements
+
+We gratefully acknowledge all speakers, instructors, collaborators, participants, and supporting organizations who contributed to the successful conduct of the **RISC-V Hardware–Software Co-Design Summer School 2026**.
+
